@@ -48,5 +48,5 @@ Cada usuario obtiene una wallet interna de depósito en TON, puede comprar bolet
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/usdt-lottery-bot.git
+git clone https://github.com/worldjosemanuel/Ton-Lottery-bot.git
 cd TU DIRECTORIO
