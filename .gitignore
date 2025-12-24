@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+.env
+*.env
+
+# Base de datos SQLite
+raffle.db
+
+# Archivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
